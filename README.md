@@ -1,5 +1,5 @@
 # terraform-ecs-module
-Forumone's ECS Terraform Module with Traefik and Rsync.net for offsite backups
+ECS Terraform Module with Traefik and Rsync.net for offsite backups
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
